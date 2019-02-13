@@ -26,9 +26,10 @@ input:focus{
 .sign-in-holder{
     height: auto;
     width: 100%;
-    position: relative;
+    position: relative; /*position relative to it's normal posiiton*/
     top: 40%;
-    transform:translate(0%,-50%);
+    background-color: white;
+    transform: translate(0%,-50%); /* shifts 50% of it's own size to the top  (x,y)*/
 }
 
 .page-title{
@@ -41,8 +42,8 @@ input:focus{
     height: 200px;
     width: 200px;
     margin: auto auto;
-    background: url(../images/person.webp) center center;
-    background-size: cover;
+    background: url(../images/person.webp) center center; /* center*/
+    background-size: cover; /* to cover the entire given area, while preserving the proportions of the image */
     border:3px solid #ffffff;
     border-radius: 10px;
 }
