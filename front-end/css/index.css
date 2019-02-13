@@ -5,13 +5,16 @@ body{
     color: #fff;
 }
 
+/*Pseudo Classes : input:focus */
+/*Pseudo Element : p::first-line*/
+
 input:focus{
     outline: none;
 }
 
 .main{
-    height: 100vh;
-    width: 100%;
+    height: 100vh;        /*covers the entire height of the page irrespective of the parent element*/
+    width: 100%;            /*covers the full width of the parent element size */
     background:#54B08A;
     position: absolute;
 }
