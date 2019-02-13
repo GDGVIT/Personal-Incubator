@@ -1,0 +1,43 @@
+body{
+    padding:0px;
+    margin: 0px;
+    font-family: 'Muli Regular';
+	}
+	@font-face{
+	    font-family: 'Muli Regular';
+	    src: url('../fonts/Muli-Regular.ttf');
+	}
+	img{
+		width: 100px;
+		height: 110px;
+		border-radius: 8px;
+		/*line-height: 105px;*/
+		/*vertical-align: middle;*/
+		margin-top: -2.5px;
+	}
+	#main{
+		/*background-color: cyan;*/
+		height: 105px;
+		width: 415px;
+		border-radius: 8px;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		display: inline-block;
+		margin-right: 30px;
+		margin-bottom: 30px;
+	}
+
+	#box{
+		width: 60vw;
+		display: inline-block;
+		margin:10vh 20vw 10vh 20vw;
+	}
+	span{
+		display: inline-block;
+	}
+	#text{
+		position: relative;
+		top: -28px;
+		left:5px;
+	}
+	
+	}
