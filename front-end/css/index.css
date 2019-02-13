@@ -28,7 +28,7 @@ input:focus{
     width: 100%;
     position: relative; /*position relative to it's normal posiiton*/
     top: 40%;
-    background-color: white;
+    background-color: transparent;
     transform: translate(0%,-50%); /* shifts 50% of it's own size to the top  (x,y)*/
 }
 

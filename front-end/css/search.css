@@ -19,7 +19,7 @@ button {
     border-radius: 30px;
     outline: none;
     font-size: 1em;
-    border: 0px;
+    border: 0;
     color: #fff;
     min-width: 90px;
     cursor: pointer;
