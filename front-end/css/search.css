@@ -59,18 +59,19 @@ img{
 }
 .main{
     height: 105px;
-    width: 415px;
+    width: 418px;
     border-radius: 8px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     display: inline-block;
     margin-right: 30px;
     margin-bottom: 30px;
 }
-
 #box{
     width: 70vw;
     display: inline-block;
     margin:15vh 19vw 10vh 19vw;
+    width: 59vw;
+    display: inline-block;
 }
 
 div{
