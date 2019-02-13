@@ -61,18 +61,17 @@ img{
 }
 .main{
     height: 105px;
-    width: 415px;
+    width: 418px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin-right: 30px;
     margin-bottom: 30px;
 }
-
 #box{
-    width: 60vw;
+    width: 59vw;
     display: inline-block;
-    margin:10vh 20vw 10vh 20vw;
+    margin-left:22vw;
+    margin-top: 3vh;
 }
 
 div{
